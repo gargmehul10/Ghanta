@@ -11,5 +11,3 @@ Advanced Alarm Clock App
 - Mathematical problem for the purpose of dismissing the alarm, i.e., the user must solve the problem to dismiss the alarm.
 - Sends an SMS to a default number everytime an alarm goes off.
 - User can change the default number as well as the default message anytime.
-
-
